@@ -1,0 +1,17 @@
+{
+  "name": "bittrex-koa",
+  "version": "1.0.0",
+  "description": "For CoinIntelligent Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Margono",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-body": "^2.5.0",
+    "koa-request": "^1.0.0",
+    "koa-router": "^7.2.1"
+  }
+}
